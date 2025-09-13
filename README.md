@@ -29,5 +29,5 @@ This project transforms the traditional calculator into an **interactive GUI app
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/pygame-calculator.git
+git clone https://github.com/Louie0517/calculator.git
 cd pygame-calculator
