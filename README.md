@@ -15,7 +15,7 @@ This project transforms the traditional calculator into an **interactive GUI app
 ---
 
 ## 📸 Preview  
-<img width="1000" height="784" alt="Calculator" src="https://github.com/user-attachments/assets/87d67433-1c4c-445d-a41d-35ce00f725ba" />
+![Calculator Demonstration](assets/demo.gif)
 
 ---
 
